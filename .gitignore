@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.mediasort_log.json
+*.egg-info/
+dist/
+build/
